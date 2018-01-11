@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "Content/grayscale.css",
+    "inputFile": "Content/grayscale.scss"
+  },
+  {
+    "outputFile": "Content/_mixins.css",
+    "inputFile": "Content/_mixins.scss"
+  }
+]
